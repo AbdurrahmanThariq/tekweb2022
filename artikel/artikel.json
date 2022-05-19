@@ -1,0 +1,23 @@
+[
+    {
+        "judul":"Analisis Proses Bisnis Di Jagongan Cofee",
+        "deskripsi":"kali ini saya melakukan sebuah analisis proses bisnis yang dilakukan di Cafe Jagongan",
+        "img":"./assets/kopi-jagongan.jpeg",
+        "penulis":"Abdurrahman Thariq Al Kindiy",
+        "artikel":"artikel1.md"
+    },
+    {
+        "judul":"Ini adalah Judul artikel 2",
+        "deskripsi":"ini merukapan deskripsi artikel 2",
+        "img":"./assets/kopi-jagongan2.jpeg",
+        "penulis":"Abdurrahman Thariq Al Kindiy",
+        "artikel":"artikel2.md"
+    },
+    {
+        "judul":"Ini adalah Judul artikel 3",
+        "deskripsi":"ini merukapan deskripsi artikel 3",
+        "img":"./assets/kopi-jagongan.jpeg",
+        "penulis":"Abdurrahman Thariq Al Kindiy",
+        "artikel":"artikel3.md"
+    }
+]
