@@ -71,26 +71,26 @@
           <h2>Tabel Keterampilan</h2>
         </div>
 
-            <div class="row">
-              <div class="col-12">
-                <table class="table table-stripped tb">
-                  <thead>
-                    <tr>
-                      <td v-for="data in tabel_nama" class="fw-bold">{{data}}</td>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr v-for="(data,b) in table" >
-                      <td style="width: 12px;" class="fw-bold">{{b+1}}</td>
-                      <td>{{data.skill}}</td>
-                      <td>{{data.kemapuan}}</td>
-                    </tr>
+        <div class="row">
+          <div class="col-12">
+            <table class="table table-stripped tb">
+              <thead>
+                <tr>
+                  <td v-for="data in tabel_nama" class="fw-bold">{{data}}</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="(data,b) in table">
+                  <td style="width: 12px;" class="fw-bold">{{b+1}}</td>
+                  <td>{{data.skill}}</td>
+                  <td>{{data.kemapuan}}</td>
+                </tr>
 
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          
+              </tbody>
+            </table>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -102,7 +102,7 @@
           <h2>Artikel</h2>
         </div>
         <div class="row">
-          <div v-for="data in for_artikel" class="col-md-4">
+          <div v-for="data in for_artikel" class="col-md-4 mb-4">
             <div class="card ">
               <img :src="data.img" class="card-img-top p-3" alt="...">
               <div class="card-body">
@@ -111,7 +111,8 @@
                 <p class="card-text">{{data.deskripsi}}</p>
               </div>
               <div class="card-footer text-muted px-2">
-                <a :href="'./read.html?article='+data.artikel" class="btn btn-secondary w-100 mx-0" type="button">Baca Artikel</a>
+                <a :href="'./read.html?article='+data.artikel" class="btn btn-secondary w-100 mx-0" type="button">Baca
+                  Artikel</a>
               </div>
             </div>
           </div>
@@ -127,17 +128,18 @@
           <h2>Contact</h2>
         </div>
         <div class="row mt-5">
-          <div class="col-lg-4">
-            <div class="info">
+          <div class="info">
+            <div class="col-md-6">
               <div class="email">
-                <h4><strong>Email:</strong> {{contact.email}}</h4>
+                <h5><strong>Email:</strong> {{contact.email}}</h4>
               </div>
-
-              <div class="phone">
-                <h4><strong>Call:</strong> {{contact.call}}</h4>
-              </div>
-
             </div>
+            <div class="col-md-6">
+              <div class="phone">
+                <h5><strong>Call:</strong> {{contact.call}}</h4>
+              </div>
+            </div>
+
 
           </div>
         </div>

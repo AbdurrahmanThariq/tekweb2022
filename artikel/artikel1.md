@@ -1,4 +1,4 @@
-# Analisis Proses Bisnis Di Jagongan Cofee
+# Analisis Proses Bisnis Di Kopi Luwak Mataram
 
 _Oleh: Abdurrahman Thariq Al Kindiy_
 
@@ -9,11 +9,13 @@ fungsi organisasi bagi sebuah bisnis adalah dapat memudahkan Anda dalam mem-brea
 Beberapa Contoh yang bisa diterapkan yaitu, Memudahkan dalam pembuatan perencanaan bisnis, Memudahkan dalam mencapai target yang ditentukan, Memudahkan dalam menentukan job description karyawan, Mempermudah dalam menganalisis beban kerja karyawan, Perhitungan gaji karyawan akan semakin mudah,Timbulnya semangat kerjasama dalam perusahaan, Membentuk emotional intelegent 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0; 
+      width:100%;
+}
 .tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:10px 5px;word-break:break-all;}
 .tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:break-all;}
 .tg .tg-ky54{text-align:left;vertical-align:top}
 .tg .tg-ktyi{text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}

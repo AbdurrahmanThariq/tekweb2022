@@ -1,23 +1,23 @@
 [
     {
-        "judul":"Analisis Proses Bisnis Di Jagongan Cofee",
+        "judul":"Analisis Proses Bisnis Di Kopi Luwak Mataram",
         "deskripsi":"kali ini saya melakukan sebuah analisis proses bisnis yang dilakukan di Cafe Jagongan",
         "img":"./assets/kopi-jagongan.jpeg",
         "penulis":"Abdurrahman Thariq Al Kindiy",
         "artikel":"artikel1.md"
     },
     {
-        "judul":"Ini adalah Judul artikel 2",
-        "deskripsi":"ini merukapan deskripsi artikel 2",
-        "img":"./assets/kopi-jagongan2.jpeg",
-        "penulis":"Abdurrahman Thariq Al Kindiy",
+        "judul":"Jenis-Jenis Biji Kopi Terkenal di Dunia dan Terbaik di Indonesia",
+        "deskripsi":"Minuman dari kopi bisa menjadi teman dalam segala suasana. Pagi, siang, malam, dinikmati secara panas atau dingin, sama nikmatnya. ",
+        "img":"https://cdn1-production-images-kly.akamaized.net/bU8i_I2T4KSzO9RR6ddC176pKMg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3361932/original/090925100_1611818104-pexels-negative-space-134577.jpg",
+        "penulis":"Aning Jati",
         "artikel":"artikel2.md"
     },
     {
-        "judul":"Ini adalah Judul artikel 3",
-        "deskripsi":"ini merukapan deskripsi artikel 3",
-        "img":"./assets/kopi-jagongan.jpeg",
-        "penulis":"Abdurrahman Thariq Al Kindiy",
+        "judul":"Mesin Kopi | Harga Alat Pembuat Kopi Otomatis & Mesin Kopi Espresso",
+        "deskripsi":"Mesin Kopi Atau Coffee Machine, Kopi merupakan salah satu komoditi SDA di indonesia yang hingga saat ini permintaannya terus mengalami peningkatan setiap tahunnya.",
+        "img":"https://i0.wp.com/astromesin.com/wp-content/uploads/2017/10/08-COFFEE-MACHINE.jpg?w=1000&ssl=1",
+        "penulis":"Astromesin.com",
         "artikel":"artikel3.md"
     }
 ]
